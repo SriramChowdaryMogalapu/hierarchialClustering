@@ -1,0 +1,1 @@
+This input file contains the basic information (Income, spending score) about the customers of a mall. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data. Analyse the customer data using hierarchial clustering.
