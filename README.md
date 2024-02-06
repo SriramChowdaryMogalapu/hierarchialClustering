@@ -11,6 +11,6 @@ The steps for agglomerative clustering are as follows:
   1. Compute the proximity matrix using a distance metric.  
   2. Use a linkage function to group objects into a hierarchical cluster tree based on the computed distance matrix from the above step.  
   3. Data points with close proximity are merged together to form a cluster.  
-  4. Repeat steps 2 and 3 until a single cluster remains.
-
-**Input data set is also attached in this Repository**
+  4. Repeat steps 2 and 3 until a single cluster remains.   
+**Note :-**  
+   Input data set is also attached in this Repository
